@@ -76,3 +76,11 @@
 | `docker network inspect <name>`  | Display detailed network info              |
 | `docker network connect <net> <cont>` | Connect container to network           |
 | `docker network disconnect <net> <cont>` | Disconnect container                  |
+
+
+Do check out the following blogs to understand the commands more:
+
+1. [Docker for DevOps Engineers](https://keshavbathla.hashnode.dev/docker-for-devops-engineers)
+2. [Docker Project for DevOps Engineers](https://keshavbathla.hashnode.dev/docker-project-for-devops-engineers)
+3. [Mastering Docker Compose: Building Beautiful Two-Tier Projects and Beyond](https://keshavbathla.hashnode.dev/mastering-docker-compose-building-beautiful-two-tier-projects-and-beyond)
+4. [Deep Dive into Docker: Unveiling Containerization, Networking, and Volumes](https://keshavbathla.hashnode.dev/deep-dive-into-docker-unveiling-containerization-networking-and-volumes)
