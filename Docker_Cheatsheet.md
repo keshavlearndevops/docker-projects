@@ -77,6 +77,7 @@
 | `docker network connect <net> <cont>` | Connect container to network           |
 | `docker network disconnect <net> <cont>` | Disconnect container                  |
 
+---
 
 Do check out the following blogs to understand the commands more:
 
